@@ -9,6 +9,7 @@ Import your planet scene and configure your planet.
 
 ### Planet size
 ![radius and resolution](radiusimg.PNG)
+
 The radius will determine the size of your planet
 
 The resolution will control how high quality your planet will be. A low resolution planet will be blocky, polygon-like, and pixel-like. A higher resolution will have a smoother surface with well defined features.
