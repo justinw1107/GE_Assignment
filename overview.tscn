@@ -22,10 +22,10 @@ albedo_texture = SubResource( 5 )
 [node name="Spatial" type="Spatial"]
 
 [node name="Planet" parent="." instance=ExtResource( 2 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 6.01228, 0 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.93125, -2.65938 )
 
 [node name="Player" parent="." instance=ExtResource( 1 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 29.7297, 6.24997 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 6.13205, 6.24997 )
 
 [node name="StaticBody" type="StaticBody" parent="."]
 transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 0, 0, 0 )
