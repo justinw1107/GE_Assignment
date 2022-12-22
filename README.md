@@ -27,3 +27,17 @@ Persistance will control how much these features protrude out of your planet.
 Amplitude makes your features bigger or smaller.
 
 Min-height will sink these features into the planet, making them smaller.
+
+
+### Planet Biomes
+
+![planet biomes image 1](biomeimg.PNG)
+
+Biomes will control different colours that will seperate based on seed, height of featuers, or amplitude
+
+The seed will randomly generate random biomes that can be made distinct through colour choice.
+
+Period will change how blotchy your biomes will be, with a lower value being very scattered, and a higher value being a larger connected surface area.
+
+The amplitude and offset will control what biomes appear over the other, based on the colour hierachy set by the user when creating the biomes.
+
