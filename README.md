@@ -41,3 +41,21 @@ Period will change how blotchy your biomes will be, with a lower value being ver
 
 The amplitude and offset will control what biomes appear over the other, based on the colour hierachy set by the user when creating the biomes.
 
+### Examening your planet
+
+Players can examing the planet using their mouse to control the camera or a VR headset.
+
+## Current Issues
+
+- Player movement bug
+- VR controls unknown (lack of testing)
+
+## Future work
+
+- Create solar system with orbiting planets
+- Fix movement issue
+
+## Demo Video
+
+[Demonstration Video](https://youtu.be/bl3nLv3mSXI)
+
