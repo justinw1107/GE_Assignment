@@ -10,21 +10,27 @@ config_version=4
 
 _global_script_classes=[ {
 "base": "Resource",
+"class": "PlanetBiome",
+"language": "GDScript",
+"path": "res://scripts/PlanetBiome.gd"
+}, {
+"base": "Resource",
 "class": "PlanetData",
 "language": "GDScript",
-"path": "res://PlanetData.gd"
+"path": "res://scripts/PlanetData.gd"
 }, {
 "base": "MeshInstance",
 "class": "PlanetMeshFace",
 "language": "GDScript",
-"path": "res://PlanetMeshFace.gd"
+"path": "res://scripts/PlanetMeshFace.gd"
 }, {
 "base": "Resource",
 "class": "PlanetNoise",
 "language": "GDScript",
-"path": "res://PlanetNoise.gd"
+"path": "res://scripts/PlanetNoise.gd"
 } ]
 _global_script_class_icons={
+"PlanetBiome": "",
 "PlanetData": "",
 "PlanetMeshFace": "",
 "PlanetNoise": ""
